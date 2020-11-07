@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj",
+      "projectUniqueName": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj",
       "projectName": "LzyCommon",
-      "projectPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj",
+      "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj",
       "packagesPath": "D:\\Users\\syp657\\.nuget\\packages\\",
-      "outputPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyCommon\\obj\\",
+      "outputPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyCommon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\syp657\\AppData\\Roaming\\NuGet\\NuGet.Config",

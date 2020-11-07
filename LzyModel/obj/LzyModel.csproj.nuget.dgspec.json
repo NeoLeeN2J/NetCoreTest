@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\LzyModel.csproj": {}
+    "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj": {}
   },
   "projects": {
-    "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\LzyModel.csproj": {
+    "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\LzyModel.csproj",
+        "projectUniqueName": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj",
         "projectName": "LzyModel",
-        "projectPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\LzyModel.csproj",
+        "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj",
         "packagesPath": "D:\\Users\\syp657\\.nuget\\packages\\",
-        "outputPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\obj\\",
+        "outputPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\syp657\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

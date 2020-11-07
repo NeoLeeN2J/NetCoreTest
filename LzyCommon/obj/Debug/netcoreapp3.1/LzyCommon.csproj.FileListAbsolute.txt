@@ -1,0 +1,9 @@
+D:\NeoLeeGitHub\LzyWebApi01\LzyCommon\bin\Debug\netcoreapp3.1\LzyCommon.deps.json
+D:\NeoLeeGitHub\LzyWebApi01\LzyCommon\bin\Debug\netcoreapp3.1\LzyCommon.dll
+D:\NeoLeeGitHub\LzyWebApi01\LzyCommon\bin\Debug\netcoreapp3.1\LzyCommon.pdb
+D:\NeoLeeGitHub\LzyWebApi01\LzyCommon\obj\Debug\netcoreapp3.1\LzyCommon.csprojAssemblyReference.cache
+D:\NeoLeeGitHub\LzyWebApi01\LzyCommon\obj\Debug\netcoreapp3.1\LzyCommon.AssemblyInfoInputs.cache
+D:\NeoLeeGitHub\LzyWebApi01\LzyCommon\obj\Debug\netcoreapp3.1\LzyCommon.AssemblyInfo.cs
+D:\NeoLeeGitHub\LzyWebApi01\LzyCommon\obj\Debug\netcoreapp3.1\LzyCommon.csproj.CoreCompileInputs.cache
+D:\NeoLeeGitHub\LzyWebApi01\LzyCommon\obj\Debug\netcoreapp3.1\LzyCommon.dll
+D:\NeoLeeGitHub\LzyWebApi01\LzyCommon\obj\Debug\netcoreapp3.1\LzyCommon.pdb

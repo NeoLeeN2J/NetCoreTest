@@ -1,173 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyWebApi01\\LzyWebApi01.csproj": {}
+    "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyWebApi01\\LzyWebApi01.csproj": {}
   },
   "projects": {
-    "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyBo\\LzyBo.csproj": {
+    "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyBo\\LzyBo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyBo\\LzyBo.csproj",
+        "projectUniqueName": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyBo\\LzyBo.csproj",
         "projectName": "LzyBo",
-        "projectPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyBo\\LzyBo.csproj",
+        "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyBo\\LzyBo.csproj",
         "packagesPath": "D:\\Users\\syp657\\.nuget\\packages\\",
-        "outputPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyBo\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "D:\\Users\\syp657\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj",
-        "projectName": "LzyCommon",
-        "projectPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj",
-        "packagesPath": "D:\\Users\\syp657\\.nuget\\packages\\",
-        "outputPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyCommon\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "D:\\Users\\syp657\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\LzyModel.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\LzyModel.csproj",
-        "projectName": "LzyModel",
-        "projectPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\LzyModel.csproj",
-        "packagesPath": "D:\\Users\\syp657\\.nuget\\packages\\",
-        "outputPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "D:\\Users\\syp657\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyWebApi01\\LzyWebApi01.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyWebApi01\\LzyWebApi01.csproj",
-        "projectName": "LzyWebApi01",
-        "projectPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyWebApi01\\LzyWebApi01.csproj",
-        "packagesPath": "D:\\Users\\syp657\\.nuget\\packages\\",
-        "outputPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyWebApi01\\obj\\",
+        "outputPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyBo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\syp657\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -183,14 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyBo\\LzyBo.csproj": {
-                "projectPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyBo\\LzyBo.csproj"
-              },
-              "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj": {
-                "projectPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj"
-              },
-              "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\LzyModel.csproj": {
-                "projectPath": "E:\\巨通项目2020\\netCoreApi\\LzyWebApi01\\LzyModel\\LzyModel.csproj"
+              "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj": {
+                "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj"
               }
             }
           }
@@ -204,6 +42,218 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj",
+        "projectName": "LzyCommon",
+        "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj",
+        "packagesPath": "D:\\Users\\syp657\\.nuget\\packages\\",
+        "outputPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\syp657\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj",
+        "projectName": "LzyModel",
+        "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj",
+        "packagesPath": "D:\\Users\\syp657\\.nuget\\packages\\",
+        "outputPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\syp657\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyWebApi01\\LzyWebApi01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyWebApi01\\LzyWebApi01.csproj",
+        "projectName": "LzyWebApi01",
+        "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyWebApi01\\LzyWebApi01.csproj",
+        "packagesPath": "D:\\Users\\syp657\\.nuget\\packages\\",
+        "outputPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyWebApi01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\syp657\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyBo\\LzyBo.csproj": {
+                "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyBo\\LzyBo.csproj"
+              },
+              "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj": {
+                "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyCommon\\LzyCommon.csproj"
+              },
+              "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj": {
+                "projectPath": "D:\\NeoLeeGitHub\\LzyWebApi01\\LzyModel\\LzyModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

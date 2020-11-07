@@ -1,0 +1,15 @@
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\bin\Debug\netcoreapp3.1\LzyBo.deps.json
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\bin\Debug\netcoreapp3.1\LzyBo.dll
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\obj\Debug\netcoreapp3.1\LzyBo.csprojAssemblyReference.cache
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\obj\Debug\netcoreapp3.1\LzyBo.AssemblyInfoInputs.cache
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\obj\Debug\netcoreapp3.1\LzyBo.AssemblyInfo.cs
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\bin\Debug\netcoreapp3.1\LzyBo.runtimeconfig.json
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\bin\Debug\netcoreapp3.1\LzyBo.runtimeconfig.dev.json
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\obj\Debug\netcoreapp3.1\LzyBo.genruntimeconfig.cache
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\bin\Debug\netcoreapp3.1\LzyBo.pdb
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\bin\Debug\netcoreapp3.1\LzyModel.dll
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\bin\Debug\netcoreapp3.1\LzyModel.pdb
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\obj\Debug\netcoreapp3.1\LzyBo.csproj.CoreCompileInputs.cache
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\obj\Debug\netcoreapp3.1\LzyBo.csproj.CopyComplete
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\obj\Debug\netcoreapp3.1\LzyBo.dll
+D:\NeoLeeGitHub\LzyWebApi01\LzyBo\obj\Debug\netcoreapp3.1\LzyBo.pdb
